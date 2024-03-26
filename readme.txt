@@ -1,4 +1,6 @@
-to run the code run the requirements.txt file 
+to run the code: 
+
+run the requirements.txt file 
 
 also please download the models from the zip link https://drive.google.com/file/d/1ezUL6MEwlNs2fEITK7VxCzk_8twOPRiX/view?usp=sharing
 
